@@ -1,0 +1,52 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "Asesoría Empresarial",
+      "description": "Apoyo en gestión, administración y desarrollo de negocios.",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978"
+    },
+    {
+      "id": 2,
+      "title": "Marketing Digital",
+      "description": "Estrategias digitales para potenciar el crecimiento de empresas.",
+      "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f"
+    },
+    {
+      "id": 3,
+      "title": "Innovación y Crecimiento",
+      "description": "Herramientas para optimizar procesos y mejorar resultados.",
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "María González",
+      "text": "Gracias al Centro de Negocios pudimos aumentar nuestras ventas."
+    },
+    {
+      "name": "Carlos Pérez",
+      "text": "Las asesorías fueron fundamentales para ordenar mi empresa."
+    },
+    {
+      "name": "Ana Torres",
+      "text": "Excelente apoyo en innovación y marketing digital."
+    }
+  ],
+
+  "faq": [
+    {
+      "question": "¿Quiénes pueden acceder a los servicios?",
+      "answer": "Micro, pequeñas y medianas empresas."
+    },
+    {
+      "question": "¿Los servicios tienen costo?",
+      "answer": "La mayoría de las asesorías son gratuitas para los beneficiarios."
+    },
+    {
+      "question": "¿Dónde están ubicados?",
+      "answer": "Manuel Rodríguez Sur 749, Santiago."
+    }
+  ]
+}
