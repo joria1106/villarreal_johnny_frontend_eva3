@@ -1,5 +1,12 @@
 # Eval_U3A_VILLARREAL_JOHNNY
 
+## Repositorio GitHub
+
+El proyecto fue gestionado mediante Git y almacenado en GitHub para el control de versiones y respaldo del código fuente.
+
+Repositorio:
+https://github.com/joria1106/villarreal_johnny_frontend_eva3
+
 ## Landing Page Centro de Negocios Santiago – SERCOTEC
 
 ### Descripción del proyecto
@@ -219,4 +226,3 @@ Johnny Villarreal
 
 Evaluación Sumativa Unidad 3 – Desarrollo Frontend
 
-Instituto Profesional AIEP
